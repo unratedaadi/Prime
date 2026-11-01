@@ -1,0 +1,13 @@
+node_modules/
+dist/
+release/
+coverage/
+.DS_Store
+.env
+.env.*
+!.env.example
+.superpowers/
+macos/**/build/
+*.dSYM/
+*.xcuserstate
+xcuserdata/
