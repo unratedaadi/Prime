@@ -40,3 +40,4 @@ The agent only listens on `127.0.0.1`, authenticates commands using a local priv
 ## Author
 
 Made by [Aaditya Nahar Jain](https://github.com/unratedaadi/).
+# Prime
