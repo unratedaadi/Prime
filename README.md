@@ -1,4 +1,4 @@
-# PRIME — local macOS voice assistant
+# PRIME — Jarvis the local macOS voice assistant
 
 PRIME is a local-first assistant for one Mac. It combines a React/Electron Control Center, loopback-only Node agent, native Swift wake listener, local Ollama conversation, and a native window/display helper.
 
